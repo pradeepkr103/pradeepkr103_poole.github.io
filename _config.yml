@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-description:      Base theme for Jekyll themes by @mdo.
+title:            Pradeep Kumar
+tagline:          Smart Web Sites and Mobile Apps Architect with Cloud Backends
+description:      Personal Development Blog for Pradeep Kumar
 url:              http://getpoole.com
 
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
+  name:           Pradeep Kumar
+  url:            https://twitter.com/pradeepkr103
 
 paginate:         1
 
@@ -21,4 +21,4 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/pradeepkr103
