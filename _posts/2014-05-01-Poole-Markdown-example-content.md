@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Poole Example content Page - to delete!
 ---
 
 
