@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poole Example content Page - to delete!
+title: Poole Example content Page and Markdown Cheatsheet
 ---
 
 
